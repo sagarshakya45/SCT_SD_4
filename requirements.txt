@@ -1,0 +1,5 @@
+📌 IMPORTANT: You need a ScraperAPI key to use this script.
+Get your free API key here: https://www.scraperapi.com
+
+requests
+beautifulsoup4
